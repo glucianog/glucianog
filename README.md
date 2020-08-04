@@ -32,7 +32,7 @@ MSc Student @UNICAMP, Full-Stack Developer @Code4
 <code><img height="20" src="https://raw.githubusercontent.com/glucianog/glucianog/60f9d55b71ecaef617e00d745bb4eb738676e107/assets/icons/vscode.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/glucianog/glucianog/60f9d55b71ecaef617e00d745bb4eb738676e107/assets/icons/git.svg"></code>
   
-*PS: Down bellow are listed the most used languages and some Github status in this profile. It's a feature from Github Readme Stats. Click [here](https://github.com/anuraghazra/github-readme-stats), and check out how to display your own status.*
+*PS: Down bellow are listed the most used languages and some Github status about this profile. It's a feature from Github Readme Stats. Click [here](https://github.com/anuraghazra/github-readme-stats), and check out how to display your own status.*
 
 ![GLucianog Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=glucianog&show_icons=true&hide_border=true)
 ![GLucianog Stats](https://github-readme-stats.vercel.app/api?username=glucianog&show_icons=true)
