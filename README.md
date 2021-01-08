@@ -33,5 +33,5 @@ MSc Student @UNICAMP, Full-Stack Developer @Code4
   
 *PS: Down bellow are listed the most used languages and some Github status about this profile. It's a feature aprovided by Github Readme Stats. Click [here](https://github.com/anuraghazra/github-readme-stats), and check out how to display your own status.*
 
-![GLucianog Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=glucianog&show_icons=true&hide_border=true&layout=compact)
-![GLucianog Stats](https://github-readme-stats.vercel.app/api?username=glucianog&show_icons=true)
+![GLucianog Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=glucianog&show_icons=true&hide_border=true&layout=compact&theme=great-gatsby)
+![GLucianog Stats](https://github-readme-stats.vercel.app/api?username=glucianog&show_icons=true&theme=great-gatsby)
