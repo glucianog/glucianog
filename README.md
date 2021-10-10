@@ -11,7 +11,7 @@ MSc Student @UNICAMP, Full-Stack Developer @Code4
 
 **Personal Info:**
 
-- 💻 Currently working as a Freelancer @Code4, a Brazilian Software Development company
+- 💻 Currently working as R&D Engineer @Synopsys
 - 🔬 MSc student in Computer Science @UNICAMP: Focused on Computer Networks, Urban Mobility, Vehicular Networks and Intelligent Transportation System (ITS)
 - 🌱 Learning the best practices of Web Development
 - 🏳‍🌈 LGBTQIA+ community
